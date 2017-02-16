@@ -59,7 +59,7 @@
               <div class="col-md-12 col-sm-12 col-xs-12">
                 <div class="x_panel">
                   <div class="x_content">
-                  <h1>Unos</h1>
+                  <h1>Unos proizvođača</h1>
                   
                 <form action="brands_create.php" method="post" class="form-horizontal form-label-left">
                 <div class="form-group">
